@@ -4,7 +4,7 @@
 
 ## Introduction
 
-The Keyestudio ESP32-IO shield is compatible with the [keyestudio ESP32 Core board](keyestudio ESP32 Core board). It expands the pins of ESP32 core board with the 2.54mm pin headers. It also has two rows of pin headers for connecting sensors and modules. In addition, to supply power for ESP32 board, you only need to connect the DC 6-9V voltage to black DC head. Also, the DIP switch controls the on-off circuit.
+The Keyestudio ESP32-IO shield is compatible with the [keyestudio ESP32 Core board](https://docs.keyestudio.com/projects/KS0413/en/latest). It expands the pins of ESP32 core board with the 2.54mm pin headers. It also has two rows of pin headers for connecting sensors and modules. In addition, to supply power for ESP32 board, you only need to connect the DC 6-9V voltage to black DC head. Also, the DIP switch controls the on-off circuit.
 
 ## Performance Parameters
 
